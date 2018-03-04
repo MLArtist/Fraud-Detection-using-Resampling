@@ -19,6 +19,6 @@ Update:
       - SVM: Support Vector Classifier
       - RF: Random forest
       - GBC: Gradient Boosting Classifier
-      - Default: Naive Bayes<br />
-Run:
+      - Default: Naive Bayes
+<br />Run:
 As ussual python script

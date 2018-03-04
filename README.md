@@ -20,5 +20,6 @@ Update:
       - RF: Random forest
       - GBC: Gradient Boosting Classifier
       - Default: Naive Bayes
-<br />Run:
+<br />
+Run:
 As ussual python script
